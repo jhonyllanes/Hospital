@@ -1,0 +1,6 @@
+from .Psaludserializer import PersonalSaludSerializer
+from .FamiliarSerializer import familiarserializer
+from .histclinicaserializer import historia_clinicaSerializer
+from .pacienteserializer import PacienteSerializer
+from .sigvitalesserializer import SignosVitalesSerializer
+from .usuariosserializer import UsuarioSerializer
